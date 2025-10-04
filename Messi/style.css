@@ -1,0 +1,11 @@
+.img {
+    width: 100px;
+    border-radius: 10%;
+}
+
+.i-bor {
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+
+}
